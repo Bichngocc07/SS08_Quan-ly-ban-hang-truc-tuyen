@@ -1,0 +1,63 @@
+SRS – TÀI LIỆU ĐẶC TẢ HỆ THỐNG BÁN HÀNG TRỰC TUYẾN
+BÁO CÁO SAU BUỔI THỰC HÀNH
+Môn học: Cơ sở dữ liệu
+Tên buổi thực hành: 
+Thời gian thực hành: ………………………
+Họ và tên sinh viên: Hà Bích Ngọc
+Lớp: HN-KS24-CNTT5
+Nhóm: 04
+________________________________________
+I. NỘI DUNG ĐÃ THỰC HÀNH
+Trong buổi thực hành , em đã tham gia tìm hiểu và triển khai SRS hệ thống bán hàng trực tuyến nhằm làm quen với quy trình phân tích yêu cầu và thiết kế cơ sở dữ liệu.
+Các nội dung chính đã thực hành gồm:
+•	Phân tích bài toán hệ thống bán hàng trực tuyến
+•	Đề xuất giải pháp lưu trữ dữ liệu phù hợp với yêu cầu bài toán
+•	Trao đổi và trả lời các câu hỏi phản biện từ các nhóm khác
+•	Thực hành triển khai các đoạn mã SQL theo ví dụ của giảng viên
+•	Ôn tập và áp dụng các câu lệnh:
+o	DDL: CREATE TABLE, DROP TABLE
+o	DML: INSERT, UPDATE, DELETE, SELECT
+Buổi thực hành giúp em hiểu rõ hơn cách tổ chức dữ liệu và mối quan hệ giữa các bảng trong một hệ thống bán hàng.
+________________________________________
+II. CÔNG VIỆC CÁC EM ĐÃ LÀM
+1. Công việc cá nhân
+•	Thực hiện viết các câu lệnh SQL để thêm mới và cập nhật thông tin học sinh trong cơ sở dữ liệu
+•	Góp ý cho các bạn trong nhóm về cách viết câu lệnh SQL và cách chia nhỏ công việc (slice)
+•	Tham gia hoàn thiện các truy vấn theo yêu cầu của Mini Project
+2. Công việc nhóm
+•	Tham gia thảo luận nhóm để thống nhất cấu trúc cơ sở dữ liệu
+•	Cùng các thành viên xây dựng và kiểm tra các đoạn mã SQL
+•	Phối hợp sửa lỗi và hoàn thiện bài thực hành 
+________________________________________
+III. KẾT QUẢ CÁC EM ĐẠT ĐƯỢC
+Sau buổi thực hành, em đã:
+•	Làm quen được với phương pháp học tập
+•	Tự tin hơn khi tiếp cận các bài thực hành SQL tiếp theo
+•	Hiểu rõ hơn về các cú pháp DDL và DML trong SQL
+•	Biết cách thiết kế cơ sở dữ liệu và thao tác với dữ liệu bằng SQL
+Link HỆ THỐNG BÁN HÀNG TRỰC TUYẾN:
+Bichngocc07/SS08_Quan-ly-ban-hang-truc-tuyen
+________________________________________
+IV. KHÓ KHĂN VÀ VẤN ĐỀ CÁC EM GẶP PHẢI
+Bên cạnh đó, do chưa ghi nhớ đầy đủ các cú pháp SQL nên khi ghi chép và trình bày, em chỉ nắm được ý chính, cách diễn đạt đôi lúc chưa thật sự chính xác so với cú pháp chuẩn.
+________________________________________
+V. KINH NGHIỆM RÚT RA
+1. Kinh nghiệm rút ra từ bài thực hành
+•	Nắm được cách thiết kế cơ sở dữ liệu và đặt các ràng buộc cho dữ liệu
+•	Hiểu rõ hơn vai trò của từng câu lệnh SQL trong việc thao tác dữ liệu
+•	Nâng cao kỹ năng làm việc nhóm và phối hợp trong Mini Project
+2. Lưu ý cho những buổi thực hành sau
+•	Cần tập trung hơn trong quá trình học và thực hành
+•	Chủ động tìm hiểu thêm tài liệu và trao đổi với giảng viên, bạn bè
+•	Cởi mở và tích cực hơn khi làm việc nhóm để đạt hiệu quả cao
+________________________________________
+VI. ĐỀ XUẤT / KIẾN NGHỊ
+Theo em, buổi thực hành sẽ hiệu quả hơn nếu:
+•	Có thêm thời gian chuẩn bị cho phần trình bày và thuyết trình Mini Project
+________________________________________
+VII. KẾT LUẬN
+Thông qua buổi thực hành , em tự đánh giá bản thân đã:
+•	Hiểu được các câu lệnh cơ bản để thiết kế một cơ sở dữ liệu
+•	Nắm được các cú pháp tạo và xóa bảng dữ liệu
+•	Biết cách tương tác với bảng đã tạo thông qua các lệnh INSERT, UPDATE, DELETE, SELECT
+Buổi thực hành giúp em củng cố kiến thức nền tảng về Cơ sở dữ liệu, tạo tiền đề cho các bài thực hành và môn học tiếp theo.
